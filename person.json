@@ -2,5 +2,6 @@
 "navn":"Martin",
     "efternavn":"Bregnhøi",
     "alder":56,
-    "køn": "mand"
+    "køn": "mand",
+    "by":"København"
 }
