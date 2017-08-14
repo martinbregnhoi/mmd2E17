@@ -1,5 +1,6 @@
 {
 "navn":"Martin",
     "efternavn":"Bregnhøi",
-    "alder":55
+    "alder":56,
+    "køn": "mand"
 }
